@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LittleGoat</string>
+    <string name="tv_versionNumber123">TextViewVersionNumber</string>
+    <string name="tv_versionNumber">Version 0.0.1</string>
+    <string name="btn_game">Game</string>
+    <string name="btn_ziege">Ziege</string>
+    <string name="btn_options">Options</string>
+    <string name="btn_info">Info</string>
+</resources>
